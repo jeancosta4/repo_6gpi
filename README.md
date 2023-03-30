@@ -4,3 +4,6 @@ Backlog do produto
 
 ![Fabio Marques](Fabio linkedin.jfif)
 
+
+![github](./Imagens/git.png)
+
