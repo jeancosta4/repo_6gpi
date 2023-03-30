@@ -2,5 +2,5 @@
 Repositório destinado a turma do 6GPI
 Backlog do produto 
 
-![Fabio Marques](Fabiolinkedin.jfif)
+![Fabio Marques](Fabio linkedin.jfif)
 
