@@ -72,3 +72,7 @@
 
 ## Autores
 
+| Nome | Github | 
+|--- |--- |
+| Jean Carlos | jeancosta4 |
+| row 2 | row 2 column 2 | 
